@@ -1,0 +1,15 @@
+.rain {
+  font-weight: 400;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.temperature {
+  font-size: 40px;
+}
+
+#weather-description {
+  text-transform: capitalize;
+}
